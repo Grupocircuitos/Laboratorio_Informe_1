@@ -4,7 +4,7 @@ Asignatura: Fundamentos de Circuitos Eléctricos
 
 Docente: Ing. Darwin Alulema
 
-Integrantes: Cela Lizz, Gutiérrez JUan, Manosalvas Gabriel.
+Integrantes: Cela Lizz, Gutiérrez Juan, Manosalvas Gabriel.
 
 
 Parcial: 1
