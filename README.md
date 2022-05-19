@@ -14,7 +14,7 @@ Laboratorio Nro: 1
 TEMA: Leyes de Kirchhoff
 
 1. OBJETIVOS
-2. 
+ 
 Objetivo General:
 
 •	Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
