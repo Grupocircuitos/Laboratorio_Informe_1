@@ -64,9 +64,9 @@ Suma de las resistencias en serie.
 
 ![image](https://user-images.githubusercontent.com/105887502/169534879-87259d09-c381-4b4a-bc6f-97f3452b6420.png)
 
-![image](https://user-images.githubusercontent.com/105887502/169535052-b4113659-e279-4372-8537-7b70832105af.png)
-
 ![image](https://user-images.githubusercontent.com/105887502/169535725-fe5306ab-4e87-4499-b08e-ace5f8821c57.png)
+
+![image](https://user-images.githubusercontent.com/105887502/169535052-b4113659-e279-4372-8537-7b70832105af.png)
 
 ![image](https://user-images.githubusercontent.com/105887502/169535414-4e7a4956-73e0-466a-b7bb-485c5ca74cf8.png)
 
