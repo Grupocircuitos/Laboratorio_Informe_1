@@ -80,9 +80,9 @@ SIMULADOR
 
 1.5.4 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomandocon signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
 
+![image](https://user-images.githubusercontent.com/105887502/169548354-069d9b42-609f-499d-8cf2-f9803ba459ea.png)
 
-
-Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+-Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
 Se concluye que haciendo los cálculos analiticamante  se obtiene el mismo valor cuando se conecta el amperaje o voltaje ya que los valores no deberían varian y en el caso de hacerlo el margen no es mucho
 
