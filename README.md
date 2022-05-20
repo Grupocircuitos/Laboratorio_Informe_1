@@ -54,9 +54,6 @@ Suma de las resistencias en serie.
 
 ![image](https://user-images.githubusercontent.com/105887502/169534532-df0ebbae-414d-42e1-b652-30c8f62947eb.png)
 
-![image](https://user-images.githubusercontent.com/105887502/169535052-b4113659-e279-4372-8537-7b70832105af.png)
-
-![image](https://user-images.githubusercontent.com/105887502/169535096-29caa0aa-d049-4bea-a1d5-447689fdd273.png)
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
@@ -67,8 +64,9 @@ Suma de las resistencias en serie.
 
 ![image](https://user-images.githubusercontent.com/105887502/169534879-87259d09-c381-4b4a-bc6f-97f3452b6420.png)
 
-![image](https://user-images.githubusercontent.com/105887502/169535020-0fb0a391-170d-4ab0-9211-66af1b562e56.png)
+![image](https://user-images.githubusercontent.com/105887502/169535052-b4113659-e279-4372-8537-7b70832105af.png)
 
+![image](https://user-images.githubusercontent.com/105887502/169535096-29caa0aa-d049-4bea-a1d5-447689fdd273.png)
 
 
 SIMULADOR
