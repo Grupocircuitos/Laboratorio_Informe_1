@@ -70,7 +70,7 @@ Suma de las resistencias en serie.
 
 ![image](https://user-images.githubusercontent.com/105887502/169535414-4e7a4956-73e0-466a-b7bb-485c5ca74cf8.png)
 
-![image](https://user-images.githubusercontent.com/105887502/169539762-dcaded0f-3331-47f3-b286-ea729b416d0d.png)
+![image](https://user-images.githubusercontent.com/105887502/169542438-c8bf75c1-645a-4f02-a152-de29f1c9e556.png)
 
 SIMULADOR
 
