@@ -70,16 +70,15 @@ Suma de las resistencias en serie.
 
 ![image](https://user-images.githubusercontent.com/105887502/169535414-4e7a4956-73e0-466a-b7bb-485c5ca74cf8.png)
 
-
+![image](https://user-images.githubusercontent.com/105887502/169539762-dcaded0f-3331-47f3-b286-ea729b416d0d.png)
 
 SIMULADOR
 
-Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
+1.5.3 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
 
 
 
-Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomandocon signo positivo las corrientes que entran al nodo y con signo negativo las que salen
-del nodo. Anote los resultados en la tabla 1.3.
+1.5.4 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomandocon signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
 
 
 
