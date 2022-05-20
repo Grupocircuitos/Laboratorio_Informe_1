@@ -68,6 +68,9 @@ Suma de las resistencias en serie.
 
 ![image](https://user-images.githubusercontent.com/105887502/169535096-29caa0aa-d049-4bea-a1d5-447689fdd273.png)
 
+![image](https://user-images.githubusercontent.com/105887502/169535414-4e7a4956-73e0-466a-b7bb-485c5ca74cf8.png)
+
+
 
 SIMULADOR
 
