@@ -76,7 +76,7 @@ SIMULADOR
 
 1.5.3 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
 
-
+![image](https://user-images.githubusercontent.com/105887502/169546572-eb18a8a3-e51e-4528-af40-d2142c94262e.png)
 
 1.5.4 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomandocon signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
 
